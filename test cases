@@ -1,0 +1,21 @@
+test cases:
+
+input:
+11001000
+
+output:
+winner is Missionaries
+
+
+input:
+001001000
+
+output:
+winner is Cannibals
+
+
+input:
+10100000
+
+output:
+its a tie
